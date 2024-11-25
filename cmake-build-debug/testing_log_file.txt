@@ -1,0 +1,56 @@
+test_memory_address_: 0 content :AA: pass
+test_memory_address_: 15 content :FF: pass
+test_memory_address_: 550 content :00: pass
+test_clear_memory_: pass
+test_clear_memory_: pass
+test_register_address_: 0 content :AA: pass
+test_register_address_: 12 content :FF: pass
+test_register_address_: 235 content :00: pass
+test_clear_register_: pass
+test_clear_register_: pass
+test_cu_load_1_4 AA 155 15: pass
+test_cu_load_1_0 A2 0 24: pass
+test_cu_load_1_15 A2 255 00: pass
+test_cu_load_with_value 0 24 44: pass
+test_cu_load_with_value 15 FF 00: pass
+test_cu_load_with_value 4 48 FF: pass
+test_store_3 32 33 65: pass
+test_store_0 00 0 FF: pass
+test_store_15 FF 255 A3: pass
+test_move: pass
+test_move: pass
+test_ALU_S:0 A1 T: 1 AA: pass
+test_ALU_S:7 12 T: 8 12: pass
+test_ALU_S:7 0 T: 8 FF: pass
+test_ALU_S:7 23 T: 8 FF: pass
+test_ALU_S:7 34 T: 8 67: pass
+test shift R: D5 shift key: 2 expected: 75and the actual is : 75: pass
+test shift R: A3  shift key: 3 expected: 74and the actual is : 74: pass
+test shift R: B6 shift key: 1 expected: 5Band the actual is : 5B: pass
+test shift R: FF shift key: 7 expected: FFand the actual is : FF: pass
+test shift R: A5 shift key: 0 expected: A5and the actual is : A5: pass
+test two complement S content: 20 T content: 10 expected: D0: pass
+test two complement S content: 33 T content: 0B expected: C2: pass
+test two complement S content: 00 T content: 00 expected: 00: pass
+test bitwiseXOR S content: 3A T content: 5C expected: 66 actual: 66: pass
+test bitwiseXOR S content: 7D T content: 4B expected: 36 actual: 36: pass
+test bitwiseXOR S content: A2 T content: 1F expected: BD actual: BD: pass
+test bitwiseXOR S content: C9 T content: 3E expected: F7 actual: F7: pass
+test bitwiseXOR S content: 5F T content: B4 expected: EB actual: EB: pass
+test bitwiseXOR S content: 8E T content: D1 expected: 5F actual: 5F: pass
+test_bitwiseAND S content: 7D T content: 4B expected: 49: pass
+test_bitwiseAND S content: A2 T content: 1F expected: 02: pass
+test_bitwiseAND S content: C9 T content: 3E expected: 08: pass
+test_bitwiseAND S content: 5F T content: B4 expected: 14: pass
+test_bitwiseAND S content: 8E T content: D1 expected: 80: pass
+test_float: S content: 20 T content: 50 expected: 40 and actual is : 40: pass
+test_float: S content: 3F T content: 3F expected: 4F and actual is : 4F: pass
+test is instruction valid, instruction : N345  ,expected: 0: pass
+test is instruction valid, instruction : A345  ,expected: 1: pass
+test is instruction valid, instruction : B345  ,expected: 1: pass
+test is instruction valid, instruction : C345  ,expected: 1: pass
+test is instruction valid, instruction : D345  ,expected: 1: pass
+test is instruction valid, instruction : 7345  ,expected: 1: pass
+test is instruction valid, instruction : 8345  ,expected: 1: pass
+test is instruction valid, instruction : 9345  ,expected: 1: pass
+test is instruction valid, instruction : 10345  ,expected: 0: pass

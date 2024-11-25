@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="task_4___5"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/mehbarah/FCAI/CS213_Assignment1/task 4 &amp; 5/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/mehbarah/FCAI/CS213_Assignment1/task 4 &amp; 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/mehbarah/FCAI/CS213_Assignment1/task 4 &amp; 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/mehbarah/FCAI/CS213_Assignment1/task 4 &amp; 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/mehbarah/FCAI/CS213_Assignment1/task 4 &amp; 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ourvolemachine">
+				<Option output="C:/mehbarah/FCAI/CS213_Assignment1/task 4 &amp; 5/cmake-build-debug/ourvolemachine.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/mehbarah/FCAI/CS213_Assignment1/task 4 &amp; 5/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mehbarah/FCAI/CS213_Assignment1/task 4 &amp; 5/."/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/mehbarah/FCAI/CS213_Assignment1/task 4 &amp; 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 ourvolemachine"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/mehbarah/FCAI/CS213_Assignment1/task 4 &amp; 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/mehbarah/FCAI/CS213_Assignment1/task 4 &amp; 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/mehbarah/FCAI/CS213_Assignment1/task 4 &amp; 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ourvolemachine/fast">
+				<Option output="C:/mehbarah/FCAI/CS213_Assignment1/task 4 &amp; 5/cmake-build-debug/ourvolemachine.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/mehbarah/FCAI/CS213_Assignment1/task 4 &amp; 5/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mehbarah/FCAI/CS213_Assignment1/task 4 &amp; 5/."/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/mehbarah/FCAI/CS213_Assignment1/task 4 &amp; 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 ourvolemachine/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/mehbarah/FCAI/CS213_Assignment1/task 4 &amp; 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/mehbarah/FCAI/CS213_Assignment1/task 4 &amp; 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/mehbarah/FCAI/CS213_Assignment1/task 4 &amp; 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test_running">
+				<Option output="C:/mehbarah/FCAI/CS213_Assignment1/task 4 &amp; 5/cmake-build-debug/test_running.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/mehbarah/FCAI/CS213_Assignment1/task 4 &amp; 5/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mehbarah/FCAI/CS213_Assignment1/task 4 &amp; 5/."/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/mehbarah/FCAI/CS213_Assignment1/task 4 &amp; 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 test_running"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/mehbarah/FCAI/CS213_Assignment1/task 4 &amp; 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/mehbarah/FCAI/CS213_Assignment1/task 4 &amp; 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/mehbarah/FCAI/CS213_Assignment1/task 4 &amp; 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test_running/fast">
+				<Option output="C:/mehbarah/FCAI/CS213_Assignment1/task 4 &amp; 5/cmake-build-debug/test_running.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/mehbarah/FCAI/CS213_Assignment1/task 4 &amp; 5/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mehbarah/FCAI/CS213_Assignment1/task 4 &amp; 5/."/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/mehbarah/FCAI/CS213_Assignment1/task 4 &amp; 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 test_running/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/mehbarah/FCAI/CS213_Assignment1/task 4 &amp; 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/mehbarah/FCAI/CS213_Assignment1/task 4 &amp; 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/mehbarah/FCAI/CS213_Assignment1/task 4 &amp; 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="arbitarylab">
+				<Option output="C:/mehbarah/FCAI/CS213_Assignment1/task 4 &amp; 5/cmake-build-debug/arbitarylab.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/mehbarah/FCAI/CS213_Assignment1/task 4 &amp; 5/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mehbarah/FCAI/CS213_Assignment1/task 4 &amp; 5/."/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/mehbarah/FCAI/CS213_Assignment1/task 4 &amp; 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 arbitarylab"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/mehbarah/FCAI/CS213_Assignment1/task 4 &amp; 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/mehbarah/FCAI/CS213_Assignment1/task 4 &amp; 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/mehbarah/FCAI/CS213_Assignment1/task 4 &amp; 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="arbitarylab/fast">
+				<Option output="C:/mehbarah/FCAI/CS213_Assignment1/task 4 &amp; 5/cmake-build-debug/arbitarylab.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/mehbarah/FCAI/CS213_Assignment1/task 4 &amp; 5/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mehbarah/FCAI/CS213_Assignment1/task 4 &amp; 5/."/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/mehbarah/FCAI/CS213_Assignment1/task 4 &amp; 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 arbitarylab/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/mehbarah/FCAI/CS213_Assignment1/task 4 &amp; 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/mehbarah/FCAI/CS213_Assignment1/task 4 &amp; 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/mehbarah/FCAI/CS213_Assignment1/task 4 &amp; 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/mehbarah/FCAI/CS213_Assignment1/task 4 &amp; 5/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/mehbarah/FCAI/CS213_Assignment1/task 4 &amp; 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/mehbarah/FCAI/CS213_Assignment1/task 4 &amp; 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/mehbarah/FCAI/CS213_Assignment1/task 4 &amp; 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/mehbarah/FCAI/CS213_Assignment1/task 4 &amp; 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/mehbarah/FCAI/CS213_Assignment1/task 4 &amp; 5/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/mehbarah/FCAI/CS213_Assignment1/task 4 &amp; 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/mehbarah/FCAI/CS213_Assignment1/task 4 &amp; 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/mehbarah/FCAI/CS213_Assignment1/task 4 &amp; 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/mehbarah/FCAI/CS213_Assignment1/task 4 &amp; 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/mehbarah/FCAI/CS213_Assignment1/task 4 &amp; 5/ALU.cpp">
+			<Option target="ourvolemachine"/>
+			<Option target="test_running"/>
+		</Unit>
+		<Unit filename="C:/mehbarah/FCAI/CS213_Assignment1/task 4 &amp; 5/ALU.h">
+			<Option target="ourvolemachine"/>
+			<Option target="test_running"/>
+		</Unit>
+		<Unit filename="C:/mehbarah/FCAI/CS213_Assignment1/task 4 &amp; 5/CPU.cpp">
+			<Option target="ourvolemachine"/>
+			<Option target="test_running"/>
+		</Unit>
+		<Unit filename="C:/mehbarah/FCAI/CS213_Assignment1/task 4 &amp; 5/CPU.h">
+			<Option target="ourvolemachine"/>
+			<Option target="test_running"/>
+		</Unit>
+		<Unit filename="C:/mehbarah/FCAI/CS213_Assignment1/task 4 &amp; 5/CU.cpp">
+			<Option target="ourvolemachine"/>
+			<Option target="test_running"/>
+		</Unit>
+		<Unit filename="C:/mehbarah/FCAI/CS213_Assignment1/task 4 &amp; 5/CU.h">
+			<Option target="ourvolemachine"/>
+			<Option target="test_running"/>
+		</Unit>
+		<Unit filename="C:/mehbarah/FCAI/CS213_Assignment1/task 4 &amp; 5/Machine.cpp">
+			<Option target="ourvolemachine"/>
+		</Unit>
+		<Unit filename="C:/mehbarah/FCAI/CS213_Assignment1/task 4 &amp; 5/Machine.h">
+			<Option target="ourvolemachine"/>
+		</Unit>
+		<Unit filename="C:/mehbarah/FCAI/CS213_Assignment1/task 4 &amp; 5/Memory.cpp">
+			<Option target="ourvolemachine"/>
+			<Option target="test_running"/>
+		</Unit>
+		<Unit filename="C:/mehbarah/FCAI/CS213_Assignment1/task 4 &amp; 5/Memory.h">
+			<Option target="ourvolemachine"/>
+			<Option target="test_running"/>
+		</Unit>
+		<Unit filename="C:/mehbarah/FCAI/CS213_Assignment1/task 4 &amp; 5/Register.cpp">
+			<Option target="ourvolemachine"/>
+			<Option target="test_running"/>
+		</Unit>
+		<Unit filename="C:/mehbarah/FCAI/CS213_Assignment1/task 4 &amp; 5/Register.h">
+			<Option target="ourvolemachine"/>
+			<Option target="test_running"/>
+		</Unit>
+		<Unit filename="C:/mehbarah/FCAI/CS213_Assignment1/task 4 &amp; 5/Test.cpp">
+			<Option target="test_running"/>
+		</Unit>
+		<Unit filename="C:/mehbarah/FCAI/CS213_Assignment1/task 4 &amp; 5/Test.h">
+			<Option target="test_running"/>
+		</Unit>
+		<Unit filename="C:/mehbarah/FCAI/CS213_Assignment1/task 4 &amp; 5/arbitarylab.cpp">
+			<Option target="arbitarylab"/>
+		</Unit>
+		<Unit filename="C:/mehbarah/FCAI/CS213_Assignment1/task 4 &amp; 5/main.cpp">
+			<Option target="ourvolemachine"/>
+		</Unit>
+		<Unit filename="C:/mehbarah/FCAI/CS213_Assignment1/task 4 &amp; 5/test_running.cpp">
+			<Option target="test_running"/>
+		</Unit>
+		<Unit filename="C:/mehbarah/FCAI/CS213_Assignment1/task 4 &amp; 5/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "task_4___5",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "arbitarylab::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-arbitarylab-Debug-4f65f50cf9c1d72fc3f3.json",
+					"name" : "arbitarylab",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ourvolemachine::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ourvolemachine-Debug-5e4d57c043ac0f5c1110.json",
+					"name" : "ourvolemachine",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_running::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_running-Debug-73bfd3dac2d187ff1b25.json",
+					"name" : "test_running",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/mehbarah/FCAI/CS213_Assignment1/task 4 & 5/cmake-build-debug",
+		"source" : "C:/mehbarah/FCAI/CS213_Assignment1/task 4 & 5"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

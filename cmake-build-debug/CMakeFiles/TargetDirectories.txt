@@ -1,0 +1,5 @@
+C:/mehbarah/FCAI/CS213_Assignment1/task 4 & 5/cmake-build-debug/CMakeFiles/ourvolemachine.dir
+C:/mehbarah/FCAI/CS213_Assignment1/task 4 & 5/cmake-build-debug/CMakeFiles/test_running.dir
+C:/mehbarah/FCAI/CS213_Assignment1/task 4 & 5/cmake-build-debug/CMakeFiles/arbitarylab.dir
+C:/mehbarah/FCAI/CS213_Assignment1/task 4 & 5/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/mehbarah/FCAI/CS213_Assignment1/task 4 & 5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
